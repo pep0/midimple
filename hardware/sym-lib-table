@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "midi_euro_lib")(type "KiCad")(uri "${KIPRJMOD}/midi_euro_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX5715BAUD")(type "Legacy")(uri "${KIPRJMOD}/MAX5715BAUD/MAX5715BAUD.lib")(options "")(descr ""))
+)
