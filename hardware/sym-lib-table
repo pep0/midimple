@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "midi_euro_lib")(type "KiCad")(uri "${KIPRJMOD}/midi_euro_lib.kicad_sym")(options "")(descr ""))
   (lib (name "MAX5715BAUD")(type "Legacy")(uri "${KIPRJMOD}/MAX5715BAUD/MAX5715BAUD.lib")(options "")(descr ""))
+  (lib (name "midimple")(type "KiCad")(uri "/Users/sebastian/Documents/Circuitery/midi_module/midi_euro/midimple.kicad_sym")(options "")(descr ""))
 )

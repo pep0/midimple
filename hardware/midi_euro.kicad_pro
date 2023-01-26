@@ -425,7 +425,15 @@
     ],
     [
       "06c13a0d-fa49-4c32-9334-67e51c1038db",
-      "IOs"
+      "pitch"
+    ],
+    [
+      "4371906a-9ae2-4865-b094-38b5fce6bf68",
+      "velocity"
+    ],
+    [
+      "da8bc905-c447-404c-b5df-a14ef3d7ac41",
+      "Gates"
     ]
   ],
   "text_variables": {}
